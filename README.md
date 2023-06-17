@@ -1,1 +1,3 @@
 # firstrepo
+## learning to edit a github repo file
+## ohh it's done....
